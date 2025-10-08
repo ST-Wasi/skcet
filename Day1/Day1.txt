@@ -1,0 +1,9 @@
+html - (connecting JS in HTML)
+Data Types in Js - (7 Data Types)
+Identifier in JS - (let, const , var)
+functions
+callback functions
+HOF - (Higer Order Function)
+callback hell
+Promises
+SetTimeOut
